@@ -670,10 +670,10 @@ button {
     padding-right: 92px;
     gap: 64px 24px;
   }
-}
 
-.team-element {
-  width: calc((100% - 24px) / 2);
+  .team-element {
+    width: calc((100% - 24px) / 2);
+  }
 }
 
 @media screen and (min-width: 1158px) {

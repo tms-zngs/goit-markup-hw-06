@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-fullstack course (html+css homework2)
+Here will be a description
